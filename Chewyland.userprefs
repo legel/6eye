@@ -1,0 +1,36 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/OVR/Scripts/OVRPluginEvent.cs">
+    <Files>
+      <File FileName="Assets/sunlight.cs" Line="54" Column="25" />
+      <File FileName="Assets/treeanimate.cs" Line="54" Column="30" />
+      <File FileName="Assets/bushanimate.cs" Line="50" Column="29" />
+      <File FileName="Assets/stumpanimate.cs" Line="41" Column="30" />
+      <File FileName="Assets/transformscript.cs" Line="44" Column="13" />
+      <File FileName="Assets/textbehaviour.cs" Line="22" Column="12" />
+      <File FileName="Assets/OVR/Scripts/OVRManager.cs" Line="154" Column="61" />
+      <File FileName="Assets/OVR/Scripts/OVRDisplay.cs" Line="355" Column="20" />
+      <File FileName="Assets/OVR/Scripts/OVRCommon.cs" Line="12" Column="2" />
+      <File FileName="Assets/OVR/Scripts/OVRPluginEvent.cs" Line="26" Column="10" />
+      <File FileName="Assets/OVR/Scripts/OVRCameraRig.cs" Line="14" Column="62" />
+      <File FileName="Assets/OVR/Scripts/OvrCapi.cs" Line="281" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="OVR" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="OVRPluginEvent.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
